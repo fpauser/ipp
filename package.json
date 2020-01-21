@@ -1,6 +1,6 @@
 {
 	"name": "@fpauser/ipp",
-	"version": "2.0.0-fpauser",
+	"version": "2.0.0-fpauser-1",
 	"description": "Internet Printing Protocol (IPP) for nodejs",
 	"keywords": [
 		"ipp",
